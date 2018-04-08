@@ -2,7 +2,7 @@
 
 This weeks topics are focused around how the architecture of our application,more precisely the deployment architecture, influences the security of our application.
 
-Up until now, we have introduced you to the hardest deployment infrastructure, (Infrastructure as a Service - IaaS), which have costed you a lot of hard work (hopefully you learned a lot while doing ig) when we deployed our applications.
+Up until now, we have introduced you to the hardest deployment infrastructure, (Infrastructure as a Service - IaaS), which have costed you a lot of hard work (hopefully you learned a lot while doing it) when we deployed our applications.
 But who will be in charge of the future maintenance of the application, security patches, security updates etc. This is the topics for this week.
 
 ### Read/Watch
