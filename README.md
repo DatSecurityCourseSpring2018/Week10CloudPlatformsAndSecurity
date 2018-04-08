@@ -12,7 +12,7 @@ But who will be in charge of the future maintenance of the application, security
 - Use Google and make sure that you, before the lesson, have an idea about the meaning behinds the terms: IaaS, PaaS, (SaaS), FaaS, Baas and Serverles, and why these topics are included in a security course
 
 ## Tuesdays plan
-We will discuss the most of the topics in the class, and summarize introduce the concepts: IaaS, PaaS, SaaS and the newer ones FaaS, BaaS and "Serverles".
+We will discuss the most of the topics in the class, and summarize/introduce the concepts: IaaS, PaaS, SaaS and the newer ones FaaS, BaaS and "Serverles".
 
 ## Exercise
 Creating a secured app, using Serverless: [TBD]()
