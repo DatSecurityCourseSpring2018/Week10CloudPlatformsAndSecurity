@@ -15,7 +15,7 @@ But who will be in charge of the future maintenance of the application, security
 We will discuss the most of the topics in the class, and summarize/introduce the concepts: IaaS, PaaS, SaaS and the newer ones FaaS, BaaS and "Serverles".
 
 ## Exercise
-Creating a secured app, using Serverless: [TBD]()
+[Choosing a deployment strategy, and the security implications of the choice](https://docs.google.com/document/d/18x1e1Cjf-hwchvMWst4fZ4tSuyNGxW3FJ0W-kwFSkfs/edit?usp=sharing)
 
 ## Wednesdays plan
 
